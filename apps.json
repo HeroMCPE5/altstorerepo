@@ -1,7 +1,7 @@
 {
   "name": "jbrepo",
   "identifier": "com.bradyhickey.jbrepo",
-  "sourceURL": "https://github.com/HeroMCPE5/altstorerepo/raw/master/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/HeroMCPE5/altstorerepo/master/apps.json",
   "apps": [
     {
       "name": "Filza",
