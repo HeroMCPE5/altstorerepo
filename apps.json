@@ -12,7 +12,7 @@
       "versionDate": "2020-02-04T15:30:00-08:00",
       "versionDescription": "• FilzaEscaped for iOS 13",
       "downloadURL": "https://github.com/HeroMCPE5/altstorerepo/raw/master/FilzaEscaped13.ipa",
-      "localizedDescription": "FilzaEscaped13, must reboot every time you use it (ignore the screenshots)",
+      "localizedDescription": "FilzaEscaped13, must reboot every time you use it",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "8A28F7",
       "size": 17542718,
@@ -23,7 +23,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/HeroMCPE5/altstorerepo/raw/master/IMG_0878-copy.png"
+        "https://github.com/HeroMCPE5/altstorerepo/raw/master/IMG_2147.PNG",
+        "https://github.com/HeroMCPE5/altstorerepo/raw/master/IMG_2148.PNG"
       ]
     },
     {
